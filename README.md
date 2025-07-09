@@ -4,7 +4,7 @@ A project to showcase my frontend skills.
 Deployed Link - https://real-estate-project-by-affan.netlify.app/
 
 The tech stack used in this project are 
-1. React - for creation web pages
+1. React - for creating web pages
 2. tailwindcss - for UI
 3. framer-motion - for animation
 4. Web 3 forms - for creating interactive contact us form
